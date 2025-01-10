@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WITH_age_difference_AS_SELECT_rooms_id_AS_room_id_rooms_name_AS_room_name_MAX_EXTRACT_YEAR_FROM_AGE_students_birthday_MIN_EXTRACT_YEAR_FROM_AGE_students_birthday_AS_age_diff_FROM_rooms_INNER_JOIN_students_ON_rooms_id_students_room_GROUP_BY_rooms_id_rooms_name_SELECT_room_id_room_name_age_diff_FROM_age_difference_ORDER_BY_age_diff_DESC_LIMIT_5>
+  <DATA_RECORD>
+    <room_id>381</room_id>
+    <room_name>Room #381</room_name>
+    <age_diff>116</age_diff>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <room_id>712</room_id>
+    <room_name>Room #712</room_name>
+    <age_diff>116</age_diff>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <room_id>486</room_id>
+    <room_name>Room #486</room_name>
+    <age_diff>115</age_diff>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <room_id>918</room_id>
+    <room_name>Room #918</room_name>
+    <age_diff>115</age_diff>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <room_id>875</room_id>
+    <room_name>Room #875</room_name>
+    <age_diff>115</age_diff>
+  </DATA_RECORD>
+</WITH_age_difference_AS_SELECT_rooms_id_AS_room_id_rooms_name_AS_room_name_MAX_EXTRACT_YEAR_FROM_AGE_students_birthday_MIN_EXTRACT_YEAR_FROM_AGE_students_birthday_AS_age_diff_FROM_rooms_INNER_JOIN_students_ON_rooms_id_students_room_GROUP_BY_rooms_id_rooms_name_SELECT_room_id_room_name_age_diff_FROM_age_difference_ORDER_BY_age_diff_DESC_LIMIT_5>
